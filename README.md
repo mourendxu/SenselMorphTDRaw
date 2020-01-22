@@ -1,6 +1,8 @@
 # SenselMorphTDRaw
 Touchdesigner Custom Operator for Sensel Morph's Raw Data Output
 
+License: GPL v3. 
+
 
 This is a boiler-plate setup for dealing with Sensel Morph's Raw data output inside of Touchdesigner.
 
