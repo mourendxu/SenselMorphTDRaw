@@ -14,4 +14,4 @@ To compile the source code, you should grab Visual Studio Community 2019 and the
 
 This is meant to be a jumping off point for anybody who wants to work with sensel morph.
 
-One important note, DO NOT CALL senselSetLEDBrightness. It will slow down your code dramatically. I dropped 30 fps from just 1 contact point.
+One important note, DO NOT CALL senselSetLEDBrightness. It will slow down your code dramatically. I dropped to 30 fps from 60 with just 1 contact point.
