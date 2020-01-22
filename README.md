@@ -2,7 +2,7 @@
 Touchdesigner Custom Operator for Sensel Morph's Raw Data Output
 
 
-This is a boilerplate setup for dealing with Sensel Morph's Raw data output inside of Touchdesigner.
+This is a boiler-plate setup for dealing with Sensel Morph's Raw data output inside of Touchdesigner.
 
 To test the custom op, download the SenselTests directory. It should work with the latest stable and experimental build. 
 
