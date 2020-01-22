@@ -4,7 +4,8 @@ Touchdesigner Custom Operator for Sensel Morph's Raw Data Output
 License: GPL v3. 
 
 
-This is a boiler-plate setup for dealing with Sensel Morph's Raw data output inside of Touchdesigner.
+This is a boiler-plate setup for dealing with Sensel Morph's Raw data output inside of Touchdesigner. 
+It's not suppose to be pretty or user friendly. It just works if all you want is contact point(s) info. 
 
 To test the custom op, download the SenselTests directory. It should work with the latest stable and experimental build. 
 
