@@ -87,7 +87,9 @@ private:
 
 	SenselFrameData* frame = NULL;
 
-	bool reconnectSensel = false;
+	bool reconnectSensel = false; 
+	//this is a hack to deal with senselAPI's own bug. Upon first connect, the sensor read call is causing a huge slow down. But the problem goes away once you connect again.
+	//Since sensel has been discontinued, this is a work around.
 
 	int currentSenselId = -1;
 
