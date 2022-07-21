@@ -14,12 +14,15 @@
 
 #include "CHOP_CPlusPlusBase.h"
 #ifdef WIN32
-#include <windows.h>
+	#include <windows.h>
 #else
-#include <pthread.h>
+	#include <pthread.h>
 #endif
+
 #include "sensel.h"
 #include "sensel_device.h"
+using namespace TD;
+
 /*
 
 This example file implements a class that does 2 different things depending on
@@ -72,10 +75,9 @@ private:
 	// The OP_NodeInfo class store information about the node that's using
 	// this instance of the class (like its name).
 	const OP_NodeInfo*	myNodeInfo;
+	
 
-	// In this example this value will be incremented each time the execute()
-	// function is called, then passes back to the CHOP 
-
+	//Sensel Related Members
 	int skippedFrames = -1;
 
 	SENSEL_HANDLE mySenselHandle;
@@ -85,10 +87,11 @@ private:
 
 	SenselFrameData* frame = NULL;
 
-	void getSensels();
+	bool reconnectSensel = false;
 
-	//static const char* CONTACT_STATE_STRING[] = { "CONTACT_INVALID","CONTACT_START", "CONTACT_MOVE", "CONTACT_END" };
+	int currentSenselId = -1;
 
+	void getSensels(int senselIdx = 0);
 	
 
 };

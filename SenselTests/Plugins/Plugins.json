@@ -1,0 +1,36 @@
+{
+    "Version": 1,
+    "AllowedPlugins": {
+        "614d9230": {
+            "ComputerName": "DAXU-MSI",
+            "Plugins": {
+                "Z:/Dev/SenselMorphCHOP2022/TD/Plugins/SenselMorphCHOP.dll": {
+                    "Hashes": [
+                        "Dv8vUYmp0axN1mz7hRmxtPz43n3TDQwIqYtRvsW1hXPTRInlRy4z8g26J8ed6EjhMmwBxasRtHua7wCrm1pDrfClteTlCE2okov3MTY7ZB64qvd7D8cODl+5VBb1xleU",
+                        "KhcsRqhhSxIw7EW5J6NdJAicp1mSdxJSmqXttdzhw+k25AwqV9j2rDlfQmoTIaNnXGYKyP1kaseOIBj+uQQWo8aw4XJVzm+sgccn1ZvP/CtImYlUCp+TZwUz5zj18gTC",
+                        "yreADCSmG4BDOjgDZF86E7i1OhM4462EiOKNdMOR5L83LfIsLp3C3KY6LLp+zFvDO5oZZOKj+7G7fwdYgX1/KRU1Wj1+uEmNP+hqTAmHKvJA710L7GqUv7Hze2TBH63z",
+                        "Y+trXwTmT1WH28TMn5MLxA5HeQsSNokZJyuV/jPs/i7aYvKNMLbmVylin7KDkqDIYd8TS4tpvPWO9AzAyAlIhTNwsuoGtI3NJqbXH7UUyC1WJxUAU5g+wGeGlBCpFgzA",
+                        "wcH1lkmkSryIh4NxncdTbMrz32RBp24pwDXxaW19uJAKxCAyl52Syrhic43et388bt8hFnUi+DklnbR0lMlcxqgJBsg+h8vb6Uo7q8hT6DCSPWqswV3PDsKyZtnZrPzR",
+                        "aTWoJJYgTVnLEiBbtEBHJXun+S+Rig/yQQJG7+j9GaddqDXvxjQ7C7KkY0teNF3bcKV+C75SEc0jHVhaByYTPbBm4J7RHPCeQK476xMieLSIiZLk7F73J1/vPgT1f3FP",
+                        "VrmfGSzsNOhyemado5639a+6zC8+e0BQyCsJTA6Jbvop8oHU7pQDqI+rPmJbvGHuQ0aQDS7SmJejzY1HNdRUlTe6Aee7YvsxDOxT7kKtOjsEXfrl5vdJCeY+rFJeaVBY",
+                        "WisQBf2m91CFoIE/+OX1KRuNMjGKeyUMEcg03W3CTose6U4Vz+jvsqkMhhlBxy3g3iI0YgMDp2bffbYMFSgQRW8IfxPG6BxzdNY+I132GmRhVD89uCxvMCP4W8DLxa7x",
+                        "AeyCUn3mur7rE2Mrj5FxYkqewWw7ZA6alAx8DlLl9Y6pdlbFLZnKaSCoGhSeNu1hkbhkQo63zj8CxKWsf56KWBnTs+FlIYjuhbIOi596XZ6RocH5ZIb4FQ+AhfyQip0s",
+                        "fHWc6Ute7ScwgABqTQ+6QMf8O/KsE30IRvWmhcuYmG1x7hX6EiXg/kROhzCc+nOjWXOm4nCM+SAHBRUTnJNaYN3qEUxX6CDY9ZgUSW1wE1SQY34y5sNGfs/YVKHndZVF",
+                        "eX+lOOPjwLOMsL/y/Wv5mDuVrDacKw5cWPferh48JH70DGPEOxJv+jRmgYNLjhg+qqVjvW3HEE/HelT9cSNjVHWdQgpdNL1D+5qBdHeIWrAvrfK0Ge5bgWN/OJnyONx4",
+                        "12mcEVjlPi2E9MZoxbTTIJ3+06zn6xjZurYFleFR295VsxRfoK4WJRxe7UpMxY/J2UNAjfZc599u26khN+7W70KHGstYuADz/e+Yui53eNCKY5F+NcfqsSOJ+pnl+8uz",
+                        "J0CtgI49Sel/iXZmJz8Lb1Y3/0rhxMigLU3qv/0S0GFctiuM3IoKELQRwVLiIuYdHWBgNRgKisPdamzUTOn3wRrZdWTb7n9n2OYa3sh5d6zXCM3pUQs9riP8+TqLGDND",
+                        "kAE+44zFdFnQncbsn9BaASkY5FLO0JcPkFpiW83OVfT+HBeKMUpgitOvH0TqbrbMOdlyOt7bd6APb9iz/t3CEAvja9nS6x8SLvOquKWzArmCYPwMOjgnlwwRy10memWH",
+                        "VcMbllSLvFrLWT/yKR1mf682F8O7HkeaqY8+QuD4PkA9imuNiXoNhG0ZmOuHlJjwsrijUoW5/o1XSbIIdo3k1Og5uHnDlh7Nqbx9TlpVg/c3XezkfjYzo+uEqMLmyoVu",
+                        "19aS/ltQdHwDPUTDCHLy8iutewNNbd+Mzn1Eod8vPZhHda4jKFD3J74zWbvxMlJQW9ecgci6hQjLp7LQEfva6p2joPhtTkX7SwuwieXbSKkjo+O0fzFBEKWUqcXS50iw",
+                        "wzjgC1zm4+R8F9OGnpyBZaEIjjLUtNe+cw1vgwAboO10FWV+jJz8RHOkxwHi/a/Jy1DtLWQQRD0K+Ch5VYDBYm2++CgU7gLl6MMSfdl8/Ma5GeIrhkoDT7oP0G2Gp0s+",
+                        "kt3/6Tp7dNJAyAmQTnF2VNeKd0pVIroXHNZm/cmPhgaD8QjlVQ2nXuo15YoYpEJlgNVRgMXizqKBQEsoI+uA3Xnifj57IM/G4tYjrmDOcQEIJsFyntfHUSzjuV6tJ1jz",
+                        "6pBfTqWjdUFGkenmtOl9gKsE5De2jXy0iy/BVuJw4e9l4WTGftfyfyywdcSolHGuy7+RCkHI7rhbVJLUpRJeYblBApUEGurtRYsAwPAlNLRCItdsA3AyKZ0LouLPh+fU",
+                        "lT9coA81zHvU3mXdkW/mSDDFTQJi1eL05gXiahnMdODPQKC91kzGUoSx1Qu+yKCa/67cRJ3Uy6E7SXnVuWlXgw2S/rDOIbuIICKYCo0d99DZUvRg8ZQ84tRxADQDygN7"
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                }
+            }
+        }
+    }
+}
